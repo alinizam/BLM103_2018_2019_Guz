@@ -24,7 +24,8 @@ public class Ornek1 {
         System.out.println(i);
         System.out.println(Integer.MAX_VALUE);
         i=5;
-        byte b=i;
+        // Hatal? kod
+        //byte b=i;
         System.out.println(i);
         
         long l=106515154545L;

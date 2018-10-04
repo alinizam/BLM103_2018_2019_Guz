@@ -23,4 +23,4 @@ public class Ornek8 {
     }
 
 }
-}
+

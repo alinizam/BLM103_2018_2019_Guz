@@ -13,6 +13,8 @@ public class Ornek9 {
     public static void main(String[] args) {
         final int x;
         x=60;
-        x=70;
+        
+        // Hatal? sat?r 
+        //x=70;
     }
 }
