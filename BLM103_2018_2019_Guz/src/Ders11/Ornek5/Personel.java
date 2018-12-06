@@ -3,13 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Ders09Lab;
+package Ders11.Ornek5;
 
 /**
  *
  * @author anizam
  */
-class Company {
-    String name,address;
-    int calisanSayi;
+public class Personel {
+    static void benKimim(){
+        System.out.println("Ben bir personelim"); 
+    }
 }
