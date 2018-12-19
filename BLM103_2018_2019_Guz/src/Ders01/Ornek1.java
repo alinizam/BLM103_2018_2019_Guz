@@ -16,7 +16,7 @@ public class Ornek1 {
         System.out.print(" BP1'e");
         System.out.print(" Ho?geldiniz");
         System.out.println("");
-        System.out.println("Merhaba"+" Dünya");
+        System.out.println("Merhaba"+" DÃ¼nya");
         //System.out.println("Merhaba"+(3+3));
         //System.out.println("");
         

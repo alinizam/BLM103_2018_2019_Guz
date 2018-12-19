@@ -13,7 +13,7 @@ public class Test {
     public static void main(String[] args) {
         Matematik m = new Matematik();
         m.hesap(new int[]{1,2,4,1,2}, "Toplama");
-        m.hesap(new int[]{1,2,4,1,2}, "Çarpma");
+        m.hesap(new int[]{1,2,4,1,2}, "Ã‡arpma");
         
         Matematik1 m1=new Matematik1();
         m1.hesap(new int[]{1,2,4,1,2}, "Toplama");

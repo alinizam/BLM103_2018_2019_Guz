@@ -35,10 +35,10 @@ public class Matematik {
             Topla t = new Topla();
             int sonuc = t.islem(sayilar);
             System.out.println("Toplam : " + sonuc);
-        }else if (islemTuru.equals("Çarpma")) {
+        }else if (islemTuru.equals("Ã‡arpma")) {
             Carpma t = new Carpma();
             int sonuc = t.islem(sayilar);
-            System.out.println("Sonuç : " + sonuc);
+            System.out.println("SonuÃ§ deÄŸeri : " + sonuc);
         }
 
     }
