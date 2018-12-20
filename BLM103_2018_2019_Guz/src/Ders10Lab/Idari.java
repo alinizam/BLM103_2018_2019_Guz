@@ -13,7 +13,7 @@ public class Idari extends Personel{
     
     
     void setMaas(Salary salary) {
-        salary.net+=(int)(0.1)*salary.net;
+        salary.net+=(int)((0.1)*salary.net);
         this.salary=salary;
     }
     
