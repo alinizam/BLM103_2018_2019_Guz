@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Ders14.Lab.Ornek2;
+package Ders14Lab.Ornek2;
 
 /**
  *
